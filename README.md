@@ -1,7 +1,6 @@
 # Kai_Li_w_TS_Kalbfleisch_AG2PI_SeedGrant
 Software to support "A genetic data portal to enable discovery of deleterious genetic variants in farmed animals"
  
-Download and install applications and server software from 
 
 Install software that will enable creation of bcalm index, and ultimately a kmer index
 
