@@ -10,7 +10,8 @@ https://github.com/kamimrcht/REINDEER?tab=readme-ov-file
 Install sofwware for server socket that can be queried remotely.
 
 https://github.com/Bio2M/rdeer-service
-[RunReindeer.docx](https://github.com/kalbfleiUKY/Kalbfleisch_AG2PI_SeedGrant/files/14606963/RunReindeer.docx)
+
+Link to instructions for index creation and data to use Reindeer for the genotyping and basic transcriptome analysis.[RunReindeer.docx](https://github.com/kalbfleiUKY/Kalbfleisch_AG2PI_SeedGrant/files/14606963/RunReindeer.docx)
 
 
 As a proof of principle, RNA-Seq data for 7 tissues from 4 animals was indexed.  K-mers with three selected randomly from each transcript fasta record were queried against the 28 indexed datasets, and a principal component analysis can be run directly on the kmer counts generated using the kmers derived from the transcriptome.  These counts were then used to generate a PCA plot demonstrating that the tissues clustered by kmer count derived expression values.
